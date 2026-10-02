@@ -1,0 +1,28 @@
+{
+  "frames_processed": 150,
+  "unique_objects": 3,
+  "peak_simultaneous_objects": 3,
+  "tracks": [
+    {
+      "track_id": 0,
+      "first_frame": 17,
+      "last_frame": 149,
+      "path_length_px": 538.9,
+      "avg_speed_px_per_s": 101.3
+    },
+    {
+      "track_id": 1,
+      "first_frame": 17,
+      "last_frame": 149,
+      "path_length_px": 406.6,
+      "avg_speed_px_per_s": 76.4
+    },
+    {
+      "track_id": 2,
+      "first_frame": 23,
+      "last_frame": 149,
+      "path_length_px": 383.9,
+      "avg_speed_px_per_s": 75.6
+    }
+  ]
+}
