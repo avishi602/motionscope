@@ -38,9 +38,7 @@ motionscope/
   sample_output/          example results
 ```
 
-## Installation and running (step by step)
-
-Works on Windows, macOS and Linux. Open a terminal (Command Prompt / PowerShell on Windows) and run:
+## Installation and Running
 
 ### 1. Clone the repository
 
