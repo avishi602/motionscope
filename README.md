@@ -39,13 +39,14 @@ motionscope/
 ```
 
 ## Installation and running (step by step)
-Works on Windows, macOS and Linux. Open a terminal (Command Prompt / PowerShell
-on Windows) and run:
+
+Works on Windows, macOS and Linux. Open a terminal (Command Prompt / PowerShell on Windows) and run:
+
+### 1. Clone the repository
 
 ```bash
-# 1. Get the code
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/avishi602/motionscope.git
+cd motionscope
 
 # 2. (Recommended) create a virtual environment
 python -m venv venv
@@ -101,4 +102,8 @@ Assumes a static camera; objects that cross or overlap may swap IDs; the tracker
 does not know what an object is (no classification).
 
 ## Author
-<your name>, <your registration number> - VIT, Computer Vision course project.
+
+Avishi Verma  
+Registration Number: 24BAI10063  
+VIT Bhopal  
+Course: Computer Vision (CSE3010)
